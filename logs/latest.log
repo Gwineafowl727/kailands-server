@@ -1,0 +1,33 @@
+[19:10:30] [ServerMain/INFO]: Building unoptimized datafixer
+[19:10:31] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[19:10:33] [ServerMain/INFO]: Loaded 7 recipes
+[19:10:33] [ServerMain/WARN]: Found validation problem in {minecraft:entities/villager}.pools[0].entries[0]: Unknown loot table called minecraft:entities/reference/villager/villager_head
+[19:10:33] [ServerMain/INFO]: Loaded 1191 advancements
+[19:10:35] [Server thread/INFO]: Starting minecraft server version 1.19.2
+[19:10:35] [Server thread/INFO]: Loading properties
+[19:10:35] [Server thread/INFO]: Default game type: SURVIVAL
+[19:10:35] [Server thread/INFO]: Generating keypair
+[19:10:35] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:10:35] [Server thread/INFO]: Using default channel type
+[19:10:35] [Server thread/INFO]: Preparing level "Kailands world"
+[19:10:35] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:10:37] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:10:37] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[19:10:37] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[19:10:37] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[19:10:37] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:10:38] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[19:10:38] [Worker-Main-11/INFO]: Preparing spawn area: 4%
+[19:10:39] [Worker-Main-4/INFO]: Preparing spawn area: 41%
+[19:10:39] [Server thread/INFO]: Time elapsed: 3845 ms
+[19:10:39] [Server thread/INFO]: Done (4.122s)! For help, type "help"
+[23:21:44] [Server thread/INFO]: Stopping server
+[23:21:44] [Server thread/INFO]: Saving players
+[23:21:44] [Server thread/INFO]: Saving worlds
+[23:21:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Kailands world]'/minecraft:overworld
+[23:21:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Kailands world]'/minecraft:the_end
+[23:21:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Kailands world]'/minecraft:the_nether
+[23:21:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (Kailands world): All chunks are saved
+[23:21:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:21:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:21:46] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
